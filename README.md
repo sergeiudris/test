@@ -28,6 +28,11 @@
 - a
 - b
 
+## First heading <sup><sup><sup>35tuh</sup></sup></sup>
+
+- a
+- b
+
 ## First heading <sup>783fh</sup>
 
 - a
