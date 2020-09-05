@@ -13,6 +13,12 @@
 - ad
 - ff
 
+## First heading <sup><sup><sub >2020-09-05 <i>8743hf</i></sub></sup></sup>
+
+- <span style="color:blue">some *blue* text</span>.
+- a
+- b
+
 ## First heading  <a class="anchor" aria-hidden="true" href="#first-heading-123" id="first-heading-123"><sup>link</sup></a>
 
 - a
@@ -38,11 +44,7 @@
 - a
 - b
 
-## First heading <sup><sup><sub style="color:blue;">2020-09-05 8743hf</sub></sup></sup>
 
-- <span style="color:blue">some *blue* text</span>.
-- a
-- b
 
 ## First heading <sup><sub><sup>67123d</sup></sub></sup>
 
