@@ -20,7 +20,7 @@
 - b
 
 
-## First heading <sup><sup><sub>2020-09-05 53cf31</sub></sup></sup>
+## First heading <sup><sup><sub>2020-09-05 <a name="53cf31" href="#53cf31">53cf31</a></sub></sup></sup>
 
 - <span style="color:blue">some *blue* text</span>.
 - a
