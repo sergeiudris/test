@@ -29,8 +29,8 @@
 - a
 - a
 
-<a class="anchor" aria-hidden="true" href="#first-heading-123" id="first-heading-123"><sup>link</sup></a>
-## First heading 
+
+## <a class="anchor" aria-hidden="true" href="#first-heading-123" id="first-heading-123"><sup>link</sup></a> First heading 
 
 - a
 - b
