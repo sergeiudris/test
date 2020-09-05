@@ -17,7 +17,7 @@
 - a
 - b
 
-<h2 id="second-heading">Second heading</h2>
+<h2 id="custom-asd">Second heading</h2>
 
 - a
 - c
