@@ -1,7 +1,7 @@
 # test
 
 
-<a name="install-321321" ><h2>Install-qwe</h2></a>
+<a id="install-321321" ><h2>Install-qwe</h2></a>
 
 - 1
 - 2
