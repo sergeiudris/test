@@ -1,7 +1,7 @@
 # test
 
 <h2 name="user-content-foo--bar" id="user-content-foo--bar">
-  <a id="user-content-heading" class="anchor" aria-hidden="true" href="#heading--foo"></a>
+  <a id="user-content-heading-foo" class="anchor" aria-hidden="true" href="#heading-foo"></a>
   Heading
 </h2>
 
