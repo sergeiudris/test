@@ -17,6 +17,11 @@
 - a
 - b
 
+<h2 id="second-heading">Second heading</h2>
+
+- a
+- c
+
 <a id="install-321321" ><h2>Install-qwe</h2></a>
 
 - 1
