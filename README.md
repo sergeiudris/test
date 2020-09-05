@@ -22,6 +22,12 @@ some header
 
 ---
 
+```markdown
+## First heading <sup><sup><sub>2020-09-05 <a name="235ffda" href="#235ffda">235ffda</a></sub></sup></sup> 
+```
+
+- renders as
+
 ## First heading <sup><sup><sub>2020-09-05 <a name="235ffda" href="#235ffda">235ffda</a></sub></sup></sup> 
 
 ---
