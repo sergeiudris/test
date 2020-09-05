@@ -23,6 +23,15 @@
 - a
 - b
 
+## First heading <sup><sup>35tuh</sup></sup>
+
+- a
+- b
+
+## First heading <sup>783fh</sup>
+
+- a
+- b
 
 <h2 id="user-content-custom-asd">Second heading</h2>
 
