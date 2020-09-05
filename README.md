@@ -29,7 +29,7 @@
 - a
 - a
 
-## First heading <a class="anchor" aria-hidden="true" href="#user-content-first-heading" id="first-heading">#</a>
+## First heading <a class="anchor" aria-hidden="true" href="#first-heading-123" id="first-heading-123">#</a>
 
 - a
 - b
