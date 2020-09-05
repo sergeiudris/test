@@ -28,7 +28,7 @@
 - a
 - b
 
-## First heading <sup><sub><sup><sub>32jfd</sub></sup></sub></sup>
+## First heading <sup><sub><sup><sup>32jfd</sup></sup></sub></sup>
 
 - a
 - b
