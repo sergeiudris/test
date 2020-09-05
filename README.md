@@ -38,6 +38,11 @@
 - a
 - b
 
+## First heading <sup><sub><sup>67123d</sup></sub></sup>
+
+- a
+- b
+
 ## First heading <sup>783fh</sup>
 
 - a
