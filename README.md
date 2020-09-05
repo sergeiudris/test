@@ -38,8 +38,9 @@
 - a
 - b
 
-## First heading <sup><sup><sub>2020-09-05 8743hf</sub></sup></sup>
+## First heading <sup><sup><sub style="color:blue;">2020-09-05 8743hf</sub></sup></sup>
 
+- <span style="color:blue">some *blue* text</span>.
 - a
 - b
 
