@@ -1,3 +1,9 @@
+<style>
+.h2 {
+  color: red;
+  }
+</style>
+
 # test
 
 <h1 id="my-custom-anchor-name">
@@ -12,7 +18,7 @@
 - 1
 - 2
 
-<div id="user-content-custom-asd">
+<div id="user-content-custom-asd" class="h2">
   <a id="user-content-custom-asd" class="anchor" aria-hidden="true" href="#custom-asd">
     #
   </a>Second heading
