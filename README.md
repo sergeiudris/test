@@ -1,5 +1,8 @@
 # test
 
+<h2 id="INSTALL123">Install</h2>
+<p>blah blah</p>
+
 <h2 name="user-content-foo--bar" id="user-content-foo--bar">
   <a id="user-content-foo" class="anchor" aria-hidden="true" href="#foo"></a>
   Heading123
