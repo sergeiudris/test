@@ -20,12 +20,6 @@
 - b
 
 
-## First heading <sup><sup><sub>2020-09-05</sub></sup></sup>  <sub><sup><sup><sup>d12cd</sub></sup></sup></sub>
-
-- <span style="color:blue">some *blue* text</span>.
-- a
-- b
-
 ## First heading <sup><sup><sub>2020-09-05 53cf31</sub></sup></sup>
 
 - <span style="color:blue">some *blue* text</span>.
