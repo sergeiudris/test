@@ -13,6 +13,11 @@
 - ad
 - ff
 
+## <a class="anchor" aria-hidden="true" href="#first-heading-123" id="first-heading-123"><sup>link</sup></a> First heading 
+
+- a
+- b
+
 <h2 id="user-content-custom-asd">Second heading</h2>
 
 - 1
@@ -30,10 +35,7 @@
 - a
 
 
-## <a class="anchor" aria-hidden="true" href="#first-heading-123" id="first-heading-123"><sup>link</sup></a> First heading 
 
-- a
-- b
 
 ## First heading <a href="#some-custom-anchor" id="some-custom-anchor">#</a>
 
