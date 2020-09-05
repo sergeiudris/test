@@ -41,7 +41,7 @@ some header
   - you get standard readable links to your header still, but with hash appended
   - if you rename the header and link breaks, user can use hash from old link to find the same header, but with new title
   - **because hash of every header in the documnet never-ever changes**, HOORAY!
-  - or: hash itself is a link(anchor) and user can copy that link, which will never break
+  - or: **hash itself is a link(anchor)** and user can copy that link, which will never break
 - at the cost of having a small superscript over every header, you get header-name-freedom and unique perssitent links
 - best of both worlds - auto generated header link and unique persisten hash for every single header
 
