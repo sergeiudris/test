@@ -12,6 +12,10 @@
 - a
 - b
 
+## First heading <a href="#some-custom-anchor" id="some-custom-anchor">#</a>
+
+- a
+- b
 
 <a id="install-321321" ><h2>Install-qwe</h2></a>
 
