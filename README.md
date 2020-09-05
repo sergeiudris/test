@@ -9,6 +9,14 @@
 
 <h2 id="user-content-custom-asd">Second heading</h2>
 
+- 1
+- 2
+
+<h2 id="user-content-custom-asd">
+  <a id="user-content-custom-asd" class="anchor" aria-hidden="true" href="#custom-asd">
+    #
+  </a>Second heading
+</h2>
 
 ## heading<a name="not-headin"></a>
 
