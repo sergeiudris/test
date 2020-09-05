@@ -13,7 +13,7 @@
 - ad
 - ff
 
-## First heading <sup><sup><sub >2020-09-05 <sup><i>8743hf</i></sup></sub></sup></sup>
+## First heading <sup><sup><sub >2020-09-05 <sup>8743hf</sup></sub></sup></sup>
 
 - <span style="color:blue">some *blue* text</span>.
 - a
