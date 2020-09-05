@@ -1,4 +1,3 @@
-
 ## the problem
 
 - you want to have a very large document, but avoid header names collision
@@ -25,6 +24,20 @@ someheader
 
 - a
 - b
+
+- use headers freely, but append to each
+```markdown
+ <sup><sup><sub>2020-09-05 <a name="235ffda" href="#235ffda">235ffda</a></sub></sup></sup> 
+```
+- where a random hash gives any header uniqueness
+- yes, it is a little taxing code-wise, but:
+  - you get standard readable links to your header still, but with hash appended
+  - if you rename the header and link breaks, user can use hash from old string to find the same header, but with new name
+  - **because hash of every header in the documnet never-ever changes**, HOORAY!
+  - or: hash itself is a link(anchor) and user can copy that link, which will never break
+- at the cost of having a small superscript over every header, you get header-name-freedom and unique perssitent links
+- best of both worlds - auto generated header link and unique persisten hash for every single header
+
 
 
 # test
