@@ -38,6 +38,11 @@
 - a
 - b
 
+## First heading <sup><sup><sub>2020-09-05 8743hf</sub></sup></sup>
+
+- a
+- b
+
 ## First heading <sup><sub><sup>67123d</sup></sub></sup>
 
 - a
