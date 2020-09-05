@@ -1,5 +1,11 @@
 # test
 
+<a name="install-baz" />
+<h2>Install-qwe</h2>
+
+- 1
+- 2
+
 <h2 id="INSTALL123">Install</h2>
 <p>blah blah</p>
 
