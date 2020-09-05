@@ -18,7 +18,7 @@
 - a
 - b
 
-## First heading <sup><sup>3y2ud</sup></sup>
+## First heading <sup><sub>3y2ud</sub></sup>
 
 - a
 - b
