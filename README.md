@@ -18,7 +18,7 @@ some header
 - you are stuck with github.com/link-to-doc#some-header 
 - you cannot use raw `<h2 id="different-anchor">some-header</h2>` either, it still gets replaced with #some-header
 
-## the solution
+## the hash approach/solution
 
 ---
 
