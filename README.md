@@ -28,7 +28,7 @@
 - a
 - b
 
-## First heading <sup><sup><sup>8743hf</sup></sup></sup>
+## First heading <sup><sup><sub>8743hf</sub></sup></sup>
 
 - a
 - b
