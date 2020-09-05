@@ -18,6 +18,12 @@
 - a
 - b
 
+## First heading <sup>3y2ud</sup>
+
+- a
+- b
+
+
 <h2 id="user-content-custom-asd">Second heading</h2>
 
 - 1
