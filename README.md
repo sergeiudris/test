@@ -1,8 +1,31 @@
-<style>
-.h2 {
-  color: red;
-  }
-</style>
+
+## the problem
+
+- you want to have a very large document, but avoid header names collision
+- painfully, github's markdown/rst/asciidoc do not allow to give a header a custom anchor id/link
+- so, if you have
+```markdown
+## some header
+
+or
+
+== some header
+
+or
+
+***
+someheader
+```
+- you are stuck with github.com/link-to-doc#some-header 
+- you cannot use raw `<h2 id="different-anchor">some-header</h2>` either, it gets replaced with #some-header
+
+## the solution
+
+## First heading <sup><sup><sub>2020-09-05 <a name="235ffda" href="#235ffda">235ffda</a></sub></sup></sup> 
+
+- a
+- b
+
 
 # test
 
