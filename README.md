@@ -28,6 +28,11 @@
 - a
 - b
 
+## First heading <sup><sub><sup><sub>32jfd</sub></sup></sub></sup>
+
+- a
+- b
+
 ## First heading <sup><sup><sub>8743hf</sub></sup></sup>
 
 - a
