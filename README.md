@@ -1,7 +1,5 @@
 ## the problem
 
-[archived]
-
 - you want to have a very large document, but avoid header names collision
 - painfully, github's markdown/rst/asciidoc do not allow to give a header a custom anchor id/link
 - so, if you have
